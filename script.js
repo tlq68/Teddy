@@ -1,3 +1,3 @@
-const p = document.getElementById('p');
+const p = document.getElementById('content');
 
-p.textContent = "Testing!"
+p.textContent = "Adventure High School!"
